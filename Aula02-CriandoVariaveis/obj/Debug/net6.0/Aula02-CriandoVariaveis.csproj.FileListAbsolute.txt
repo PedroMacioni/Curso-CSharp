@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\bin\Debug\net6.0\Aula02-CriandoVariaveis.exe
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\bin\Debug\net6.0\Aula02-CriandoVariaveis.deps.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\bin\Debug\net6.0\Aula02-CriandoVariaveis.runtimeconfig.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\bin\Debug\net6.0\Aula02-CriandoVariaveis.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\bin\Debug\net6.0\Aula02-CriandoVariaveis.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\obj\Debug\net6.0\Aula02-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\obj\Debug\net6.0\Aula02-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\obj\Debug\net6.0\Aula02-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\obj\Debug\net6.0\Aula02-CriandoVariaveis.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\obj\Debug\net6.0\Aula02-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\obj\Debug\net6.0\Aula02-CriandoVariaveis.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\obj\Debug\net6.0\refint\Aula02-CriandoVariaveis.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\obj\Debug\net6.0\Aula02-CriandoVariaveis.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\obj\Debug\net6.0\Aula02-CriandoVariaveis.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula02-CriandoVariaveis\obj\Debug\net6.0\ref\Aula02-CriandoVariaveis.dll
