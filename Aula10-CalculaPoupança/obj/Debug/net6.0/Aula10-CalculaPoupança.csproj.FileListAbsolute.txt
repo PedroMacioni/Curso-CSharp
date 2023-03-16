@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\bin\Debug\net6.0\Aula10-CalculaPoupança.exe
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\bin\Debug\net6.0\Aula10-CalculaPoupança.deps.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\bin\Debug\net6.0\Aula10-CalculaPoupança.runtimeconfig.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\bin\Debug\net6.0\Aula10-CalculaPoupança.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\bin\Debug\net6.0\Aula10-CalculaPoupança.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\obj\Debug\net6.0\Aula10-CalculaPoupança.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\obj\Debug\net6.0\Aula10-CalculaPoupança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\obj\Debug\net6.0\Aula10-CalculaPoupança.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\obj\Debug\net6.0\Aula10-CalculaPoupança.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\obj\Debug\net6.0\Aula10-CalculaPoupança.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\obj\Debug\net6.0\Aula10-CalculaPoupança.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\obj\Debug\net6.0\refint\Aula10-CalculaPoupança.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\obj\Debug\net6.0\Aula10-CalculaPoupança.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\obj\Debug\net6.0\Aula10-CalculaPoupança.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula10-CalculaPoupança\obj\Debug\net6.0\ref\Aula10-CalculaPoupança.dll
