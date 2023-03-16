@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\bin\Debug\net6.0\Aula07-Condicionais.exe
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\bin\Debug\net6.0\Aula07-Condicionais.deps.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\bin\Debug\net6.0\Aula07-Condicionais.runtimeconfig.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\bin\Debug\net6.0\Aula07-Condicionais.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\bin\Debug\net6.0\Aula07-Condicionais.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\obj\Debug\net6.0\Aula07-Condicionais.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\obj\Debug\net6.0\Aula07-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\obj\Debug\net6.0\Aula07-Condicionais.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\obj\Debug\net6.0\Aula07-Condicionais.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\obj\Debug\net6.0\Aula07-Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\obj\Debug\net6.0\Aula07-Condicionais.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\obj\Debug\net6.0\refint\Aula07-Condicionais.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\obj\Debug\net6.0\Aula07-Condicionais.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\obj\Debug\net6.0\Aula07-Condicionais.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula07-Condicionais\obj\Debug\net6.0\ref\Aula07-Condicionais.dll
