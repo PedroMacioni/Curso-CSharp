@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\bin\Debug\net6.0\Aula05-CaracteresETextos.exe
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\bin\Debug\net6.0\Aula05-CaracteresETextos.deps.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\bin\Debug\net6.0\Aula05-CaracteresETextos.runtimeconfig.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\bin\Debug\net6.0\Aula05-CaracteresETextos.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\bin\Debug\net6.0\Aula05-CaracteresETextos.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\obj\Debug\net6.0\Aula05-CaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\obj\Debug\net6.0\Aula05-CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\obj\Debug\net6.0\Aula05-CaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\obj\Debug\net6.0\Aula05-CaracteresETextos.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\obj\Debug\net6.0\Aula05-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\obj\Debug\net6.0\Aula05-CaracteresETextos.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\obj\Debug\net6.0\refint\Aula05-CaracteresETextos.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\obj\Debug\net6.0\Aula05-CaracteresETextos.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\obj\Debug\net6.0\Aula05-CaracteresETextos.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula05-CaracteresETextos\obj\Debug\net6.0\ref\Aula05-CaracteresETextos.dll
