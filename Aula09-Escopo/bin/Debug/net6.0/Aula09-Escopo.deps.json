@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula09-Escopo/1.0.0": {
+        "runtime": {
+          "Aula09-Escopo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula09-Escopo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

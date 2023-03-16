@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\bin\Debug\net6.0\Aula09-Escopo.exe
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\bin\Debug\net6.0\Aula09-Escopo.deps.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\bin\Debug\net6.0\Aula09-Escopo.runtimeconfig.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\bin\Debug\net6.0\Aula09-Escopo.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\bin\Debug\net6.0\Aula09-Escopo.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\obj\Debug\net6.0\Aula09-Escopo.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\obj\Debug\net6.0\Aula09-Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\obj\Debug\net6.0\Aula09-Escopo.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\obj\Debug\net6.0\Aula09-Escopo.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\obj\Debug\net6.0\Aula09-Escopo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\obj\Debug\net6.0\Aula09-Escopo.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\obj\Debug\net6.0\refint\Aula09-Escopo.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\obj\Debug\net6.0\Aula09-Escopo.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\obj\Debug\net6.0\Aula09-Escopo.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula09-Escopo\obj\Debug\net6.0\ref\Aula09-Escopo.dll
