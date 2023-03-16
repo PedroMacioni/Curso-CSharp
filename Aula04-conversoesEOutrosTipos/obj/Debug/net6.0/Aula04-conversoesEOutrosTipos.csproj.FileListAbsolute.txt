@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\bin\Debug\net6.0\Aula04-conversoesEOutrosTipos.exe
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\bin\Debug\net6.0\Aula04-conversoesEOutrosTipos.deps.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\bin\Debug\net6.0\Aula04-conversoesEOutrosTipos.runtimeconfig.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\bin\Debug\net6.0\Aula04-conversoesEOutrosTipos.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\bin\Debug\net6.0\Aula04-conversoesEOutrosTipos.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\obj\Debug\net6.0\Aula04-conversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\obj\Debug\net6.0\Aula04-conversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\obj\Debug\net6.0\Aula04-conversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\obj\Debug\net6.0\Aula04-conversoesEOutrosTipos.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\obj\Debug\net6.0\Aula04-conversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\obj\Debug\net6.0\Aula04-conversoesEOutrosTipos.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\obj\Debug\net6.0\refint\Aula04-conversoesEOutrosTipos.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\obj\Debug\net6.0\Aula04-conversoesEOutrosTipos.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\obj\Debug\net6.0\Aula04-conversoesEOutrosTipos.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula04-conversoesEOutrosTipos\obj\Debug\net6.0\ref\Aula04-conversoesEOutrosTipos.dll
