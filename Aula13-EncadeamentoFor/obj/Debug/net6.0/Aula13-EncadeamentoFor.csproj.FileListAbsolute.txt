@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\bin\Debug\net6.0\Aula13-EncadeamentoFor.exe
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\bin\Debug\net6.0\Aula13-EncadeamentoFor.deps.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\bin\Debug\net6.0\Aula13-EncadeamentoFor.runtimeconfig.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\bin\Debug\net6.0\Aula13-EncadeamentoFor.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\bin\Debug\net6.0\Aula13-EncadeamentoFor.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\obj\Debug\net6.0\Aula13-EncadeamentoFor.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\obj\Debug\net6.0\Aula13-EncadeamentoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\obj\Debug\net6.0\Aula13-EncadeamentoFor.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\obj\Debug\net6.0\Aula13-EncadeamentoFor.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\obj\Debug\net6.0\Aula13-EncadeamentoFor.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\obj\Debug\net6.0\Aula13-EncadeamentoFor.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\obj\Debug\net6.0\refint\Aula13-EncadeamentoFor.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\obj\Debug\net6.0\Aula13-EncadeamentoFor.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\obj\Debug\net6.0\Aula13-EncadeamentoFor.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula13-EncadeamentoFor\obj\Debug\net6.0\ref\Aula13-EncadeamentoFor.dll
