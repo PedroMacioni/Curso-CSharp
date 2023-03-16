@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\obj\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\obj\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\obj\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\obj\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\obj\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\bin\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.exe
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\bin\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.deps.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\bin\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.runtimeconfig.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\bin\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\bin\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\obj\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\obj\Debug\net6.0\refint\Aula06-AtribuicoesDeVariaveis.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\obj\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\obj\Debug\net6.0\Aula06-AtribuicoesDeVariaveis.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula06-AtribuicoesDeVariaveis\obj\Debug\net6.0\ref\Aula06-AtribuicoesDeVariaveis.dll
