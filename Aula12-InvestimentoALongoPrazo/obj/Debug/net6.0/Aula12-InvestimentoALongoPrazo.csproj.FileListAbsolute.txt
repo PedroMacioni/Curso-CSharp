@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\bin\Debug\net6.0\Aula12-InvestimentoALongoPrazo.exe
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\bin\Debug\net6.0\Aula12-InvestimentoALongoPrazo.deps.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\bin\Debug\net6.0\Aula12-InvestimentoALongoPrazo.runtimeconfig.json
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\bin\Debug\net6.0\Aula12-InvestimentoALongoPrazo.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\bin\Debug\net6.0\Aula12-InvestimentoALongoPrazo.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\obj\Debug\net6.0\Aula12-InvestimentoALongoPrazo.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\obj\Debug\net6.0\Aula12-InvestimentoALongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\obj\Debug\net6.0\Aula12-InvestimentoALongoPrazo.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\obj\Debug\net6.0\Aula12-InvestimentoALongoPrazo.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\obj\Debug\net6.0\Aula12-InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\obj\Debug\net6.0\Aula12-InvestimentoALongoPrazo.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\obj\Debug\net6.0\refint\Aula12-InvestimentoALongoPrazo.dll
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\obj\Debug\net6.0\Aula12-InvestimentoALongoPrazo.pdb
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\obj\Debug\net6.0\Aula12-InvestimentoALongoPrazo.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\Curso CSharp\Aula01\CursoCSharp\Aula12-InvestimentoALongoPrazo\obj\Debug\net6.0\ref\Aula12-InvestimentoALongoPrazo.dll
